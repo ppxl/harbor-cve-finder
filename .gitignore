@@ -1,0 +1,15 @@
+target/
+vendor/
+.bin/
+.idea/
+.code/
+
+*.exe
+*.test
+*.prof
+
+*.out
+
+*.iml
+build/tmp
+build/home
